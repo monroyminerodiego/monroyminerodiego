@@ -7,6 +7,7 @@ The data engineer, from UPY, is a professional specialized in the massive collec
 **Portfolio:** [UPY (Universidad Politécnica de Yucatán) - Personal Repository](https://github.com/monroyminerodiego/UPY)
 
 
+<br><br>
 
 # 💻 Work Experience
 ### - BillboardPlanet
@@ -15,13 +16,15 @@ Expertise in database monitoring and analysis, software testing, and customer su
 
 **Skills:** Google Spreadsheets · SQL Server Management Studio · Python · Data Analysis
 
-**Portfolio:** [BBP (BillboardPlanet) - Professional Repository](https://github.com/monroyminerodiego/BBP)
+**Repository:** [BBP (BillboardPlanet) - Professional Repository](https://github.com/monroyminerodiego/BBP)<br><br>
+
+
 
 ### - SIM CARD Corporativo
 **IT Manager Jr (Sep 2019 - Ago 2023)**
-Experienced professional with a proven track record of delivering impactful results in sales, customer service, and process automation. Expertise in Python, CRM, Quoter, and database management.
+Experienced professional with a proven track record of delivering impactful results in sales, customer service, and process automation. 
 
 **Skills:** Microsoft Excel · Appsheet · Python · MySQL  
 
-**Portfolio:** [AOPP (Automatization Of Processes with Python)](https://github.com/monroyminerodiego/AOPP)
+**Repository:** [AOPP (Automatization Of Processes with Python)](https://github.com/monroyminerodiego/AOPP)
 
