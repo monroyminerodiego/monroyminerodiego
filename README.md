@@ -17,9 +17,8 @@ The data engineer, from UPY, is a professional specialized in the massive collec
 <br><br>
 
 # 💻 Work Experience
-### - BillboardPlanet
-**Digital Services and Tech Support (Ago 2023 - Current)**
-Expertise in database monitoring and analysis, software testing, and customer support. Responsible for flagship projects and providing quick and efficient solutions to customer problems.
+### - BillboardPlanet LCC
+**Digital Services and Tech Support (Ago 2023 - Current):** Expertise in database monitoring and analysis, software testing, and customer support. Responsible for flagship projects and providing quick and efficient solutions to customer problems.
 
 **Skills:** Google Spreadsheets · SQL Server Management Studio · Python · Data Analysis
 
@@ -27,9 +26,8 @@ Expertise in database monitoring and analysis, software testing, and customer su
 
 
 
-### - SIM CARD Corporativo
-**IT Manager Jr (Sep 2019 - Ago 2023)**
-Experienced professional with a proven track record of delivering impactful results in sales, customer service, and process automation. 
+### - SIM CARD Corporativo SA de CV
+**IT Manager Jr (Sep 2019 - Ago 2023):** Experienced professional with a proven track record of delivering impactful results in sales, customer service, and process automation. 
 
 **Skills:** Microsoft Excel · Appsheet · Python · MySQL  
 
