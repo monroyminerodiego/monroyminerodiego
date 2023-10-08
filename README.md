@@ -1,4 +1,4 @@
-<img src='Images/Contact Info - Banner.png'>
+<img src='Images/Contact Info - Banner GitHub.png'>
 
 # 📚 Education
 ### Universidad Politécnica de Yucatán (July 2021 - Current)
