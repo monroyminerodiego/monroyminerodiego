@@ -11,7 +11,7 @@ The data engineer, from UPY, is a professional specialized in the massive collec
 
 **Skills:** Python · SQL · Jupyter Notebooks · Node JS · C
 
-**Portfolio:** [UPY (Universidad Politécnica de Yucatán) - Personal Repository](https://github.com/monroyminerodiego/UPY)
+**Repository:** [UPY (Universidad Politécnica de Yucatán) - Personal Repository](https://github.com/monroyminerodiego/UPY)
 
 
 <br><br>
