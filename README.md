@@ -1,3 +1,5 @@
+![Data Engineer Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datacamp.com%2Fblog%2Fnew-year-new-linkedin-cover-image&psig=AOvVaw3jJ3yMF3WHnvouFywUC2d_&ust=1696829614158000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMD8k4Hd5YEDFQAAAAAdAAAAABAE)
+
 # 📚 Education
 ### Universidad Politécnica de Yucatán (July 2021 - Current)
 The data engineer, from UPY, is a professional specialized in the massive collection, storage, processing and visualization of data, for the creation of value in products used in decision making, at a scientific and technological level, with applications in areas of Digital Economy, Advanced Population Analysis, Data Science, QA and Internet of Things.
