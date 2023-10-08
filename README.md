@@ -1,5 +1,8 @@
 <img src='Images/Contact Info - Banner GitHub.png'>
 
+# 👀 About Me
+Motivated data scientist junior in development with 3+ years of experience as a freelance. Passionate about building models that fix problems. Relevant skills include problem-solving, programming, and creative thinking.
+
 # 📚 Education
 ### Universidad Politécnica de Yucatán (July 2021 - Current)
 The data engineer, from UPY, is a professional specialized in the massive collection, storage, processing and visualization of data, for the creation of value in products used in decision making, at a scientific and technological level, with applications in areas of Digital Economy, Advanced Population Analysis, Data Science, QA and Internet of Things.
