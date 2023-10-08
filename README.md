@@ -1,4 +1,4 @@
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datacamp.com%2Fblog%2Fnew-year-new-linkedin-cover-image&psig=AOvVaw3jJ3yMF3WHnvouFywUC2d_&ust=1696829614158000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMD8k4Hd5YEDFQAAAAAdAAAAABAE'>
+<img src='Images/Contact Info - Banner.png'>
 
 # 📚 Education
 ### Universidad Politécnica de Yucatán (July 2021 - Current)
