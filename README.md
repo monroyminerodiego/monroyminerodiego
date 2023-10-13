@@ -1,4 +1,4 @@
-<img src='Images/Contact Info - Banner GitHub.png'>
+<img src='Images/Contact Info - Banner.png'>
 
 # 👀 About Me
 Motivated data scientist junior in development with 3+ years of experience as a freelance. Passionate about building models that fix problems. Relevant skills include problem-solving, programming, and creative thinking.
