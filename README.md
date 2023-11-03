@@ -18,7 +18,7 @@ The data engineer, from UPY, is a professional specialized in the massive collec
 
 # 💻 Work Experience
 ### - DTI
-**RPA Developer (Nov 2023 - Current):** RPA Developer responsible for implementing RPA solutions that improve efficiency and productivity.
+**RPA Developer (Nov 2023 - Current):** Developer responsible for implementing specialized software robots that automate high-volume, repetitive, rule-based tasks in an auditable and reliable way.
 
 **Skills:**  Pandas · Python · Automation Anywhere
 
