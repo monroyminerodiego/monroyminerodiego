@@ -17,8 +17,17 @@ The data engineer, from UPY, is a professional specialized in the massive collec
 <br><br>
 
 # 💻 Work Experience
+### - DTI
+**RPA Developer (Nov 2023 - Current):** RPA Developer responsible for implementing RPA solutions that improve efficiency and productivity.
+
+**Skills:**  Pandas · Python · Automation Anywhere
+
+<!-- **Organization:** [Keytia](https://github.com/monroyminerodiego/BBP)<br><br> -->
+
+
+
 ### - BillboardPlanet LCC
-**Digital Services and Tech Support (Ago 2023 - Current):** Expertise in database monitoring and analysis, software testing, and customer support. Responsible for flagship projects and providing quick and efficient solutions to customer problems.
+**Digital Services and Tech Support (Ago 2023 - Nov 2023):** Expertise in database monitoring and analysis, software testing, and customer support. Responsible for flagship projects and providing quick and efficient solutions to customer problems.
 
 **Skills:** Google Spreadsheets · SQL Server Management Studio · Python · Data Analysis
 
